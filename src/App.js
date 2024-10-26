@@ -11,7 +11,7 @@ function App() {
   const [isFirstLoad, setIsFirstLoad] = useState(true); 
 
   const api = {
-    key: 'fc93e325717dd9a772de20fc414105a4',
+    key: 'YOUR_API_KEY_HERE',
     base: 'http://api.openweathermap.org/data/2.5/'
   };
 
