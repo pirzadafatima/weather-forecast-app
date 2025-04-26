@@ -5,7 +5,7 @@ A responsive weather forecast application, providing real-time weather data for 
 ## Features
 
 - **Search**: Enter any city to get the latest weather data.
-- **Current Weather**: View the temperature, weather condition, and an icon representing the current weather.
+- **Current Weather**: View the temperature, weather condition, and an animated icon representing the current weather.
 - **Forecast**: See a 4-day forecast of your desired city.
 
 ## Tech Stack
